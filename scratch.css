@@ -1,0 +1,20 @@
+.btn-restore {
+    display: none;
+}
+
+tr.done {
+    background: #44d3e61c;
+}
+
+tr.done .btn-restore {
+    display: inline-block;
+}
+
+tr.done .btn-done {
+    display: none;
+
+}
+
+.container {
+    max-width: 100%;
+}
